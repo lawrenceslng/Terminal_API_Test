@@ -1,11 +1,11 @@
-#Adyen Cloud Terminal API NodeJS Test
+# Adyen Cloud Terminal API NodeJS Test
 
-##Purpose
+## Purpose
 To create a NodeJS program that automatically sends payment requests to a terminal repeatedly while monitoring battery level to catch a DeviceOut error.
 
 The raw request/response is sent to a txt file for further analysis.
 
-##How to Use
+## How to Use
 1. Create a .env file
 ```
 X_API_Key=[YOUR_API_KEY]
